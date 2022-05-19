@@ -65,6 +65,12 @@ export default function AboutMe() {
               <FlipHover frontImage={"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"}
                 backText={"React"}
               />
+              <FlipHover frontImage={"https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"}
+                backText={"NextJS"}
+              />
+              <FlipHover frontImage={"https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg"}
+                backText={"Tailwind"}
+              />
               <FlipHover frontImage={"https://blog.knoldus.com/wp-content/uploads/2019/12/mocha.png"}
                 backText={"Mocha"}
                 />
